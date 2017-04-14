@@ -1,5 +1,5 @@
 # 用于学习全栈Web开发的100+免费资源
-此为 [Become-A-Full-Stack-Web-Developer](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer#start-here) 中文版
+此翻译至 [Become-A-Full-Stack-Web-Developer](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer)
 > 翻译如有误，请Issues，不胜感激           
 大部分资源都是英文
 
@@ -13,12 +13,12 @@
 ### 目录
 1. **[开始](#开始)**
 2. **[如何学习](#如何学习)**
-3. **[What is the Most Useful CS Bookmark You have](#what-is-the-single-most-useful-cs-bookmark-you-have)**
+3. **[你收藏最有用的书签是什么](#你收藏最有用的书签是什么)**
 4. **[Programs & Classes](#programs-and-classes)**
-5. **[Learn HTML](#learn-html)**
-6. **[Learn CSS](#learn-css)**
-7. **[Learn JavaScript](#learn-javascript)**
-8. **[Learn React.js](#learn-react-js)**
+5. **[学习 HTML](#学习-html)**
+6. **[学习 CSS](#学习-css)**
+7. **[学习 JavaScript](#学习-javascript)**
+8. **[学习 React.js](#学习-react-js)**
 9. **[Full Stack Tutorials](#full-stack-tutorials)**
 10. **[Learn Node.js](#learn-node-js)**
 11. **[Learn Python](#learn-python)**
@@ -49,10 +49,10 @@
   * 重复，重复，重复，关于学习技巧的一个很好的讨论 [Reddit Post](https://www.reddit.com/r/learnprogramming/comments/5pyx5t/a_beginners_trick_i_learned_way_too_late_in_the/)
 
 ---
-### What is the Single most useful CS Bookmark you have?
+### 你收藏最有用的书签是什么?
 
-* What is the single most useful CS Bookmark you have? [[Reddit Link]](https://www.reddit.com/r/cscareerquestions/comments/5bsg82/whats_the_single_most_useful_csrelated_link_you/)
-  * [Learn X in Y Minutes](https://learnxinyminutes.com/)
+* 你收藏最有用的书签是什么? [[Reddit Link]](https://www.reddit.com/r/cscareerquestions/comments/5bsg82/whats_the_single_most_useful_csrelated_link_you/)
+  * [Learn X in Y Minutes(译注：以一个简单示例展示各语言特点的网站)](https://learnxinyminutes.com/)
   * [What CS Majors Should Know](http://matt.might.net/articles/what-cs-majors-should-know/)
   * [Google's Technical Development Guide](https://www.google.com/about/careers/students/guide-to-technical-development.html)
   * [CSS Tricks - Complete Flexbox Guide](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
@@ -84,43 +84,43 @@
 * [Google University GitHub Repo](https://github.com/jwasham/coding-interview-university)
 
 ---
-### Learn HTML
+### 学习 HTML
 
-* [Introduction to HTML - Mozilla Docs](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML)
-* [HTML5 Tutorial](http://www.html5tutorial.info)
-* [HTML5 Introduction EDX](https://www.edx.org/course/html5-introduction-w3cx-html5-0x-0)
-* [Learn to code HTML & CSS - Shay Howe](http://learn.shayhowe.com/html-css/)
-* [HTML Fundamentals - SoloLearn](https://www.sololearn.com/Course/HTML/)
-
----
-### Learn CSS
-
-* [Everything you need to know about Flexbox](https://medium.freecodecamp.com/understanding-flexbox-everything-you-need-to-know-b4013d4dc9af#.nusbqoyuc) *Seriously the best Flexbox resource I've found*
-* A visual guide to CSS - [CSS Reference](http://cssreference.io/)
-* [CSS Pro Tips](https://github.com/AllThingsSmitty/css-protips?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more) - A collection of tips to help take your CSS skills pro.
-* [10 principles for smooth web animations](https://blog.gyrosco.pe/smooth-css-animations-7d8ffc2c1d29#.y6p8vkehd)
-* [Css Fundamentals - SoloLearn](https://www.sololearn.com/Course/CSS/)
+* [HTML 介绍 - Mozilla 官网](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML)
+* [HTML5 教程](http://www.html5tutorial.info)
+* [HTML5 简介(EDX 官网)](https://www.edx.org/course/html5-introduction-w3cx-html5-0x-0)
+* [学习 HTML & CSS 编码(Shay Howe 官网)](http://learn.shayhowe.com/html-css/)
+* [HTML 基础知识(SoloLearn 官网)](https://www.sololearn.com/Course/HTML/)
 
 ---
-### Learn JavaScript
+### 学习 CSS
 
-* Javascript [Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-* Courses/Tutorials
-  * [Javascript for Beginners (1) EDX](https://www.edx.org/course/html5-part-1-html5-coding-essentials-w3cx-html5-1x-1)
-  * [Javascript for Beginners (2) EDX](https://www.edx.org/course/html5-part-2-advanced-techniques-w3cx-html5-2x-1)
-  * Javascript [The Right Way](http://jstherightway.org/)
-  * Courses.AngularClass.com - Topics Include: webpack, nodejs, npm, es5, es6, esnext, & rxjs, typescript
-    * [[Course Link]](http://courses.angularclass.com/courses/modern-javascript) [[Reddit Post]](https://www.reddit.com/r/learnjavascript/comments/4vz5y6/learn_modern_javascript_for_free_topics_covered/)
-  * Edabit - Learn JavaScript With Interactive Challenges: Earn XP, Unlock Achievements & Climb The Leaderboard
-    * [[Edabit - Website Link]](https://edabit.com/explore) [[Reddit Post]](https://www.reddit.com/r/learnprogramming/comments/5vc3gb/learn_javascript_with_interactive_challenges_earn/)
-  * [Free Advanced JavaScript Courses - Learn Object Oriented Programming, Call Apply, and Bind, Testing, Functional Programming, and much more](https://www.rithmschool.com/courses#advanced-javascript)
+* [您需要了解的关于Flexbox的一切](https://medium.freecodecamp.com/understanding-flexbox-everything-you-need-to-know-b4013d4dc9af#.nusbqoyuc) *认真脸：这是我发现的最好的Flexbox学习资源*
+* [CSS视觉指南](http://cssreference.io/)
+* [CSS专业技巧](https://github.com/AllThingsSmitty/css-protips?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more)
+* [平滑Web动画的10个原理](https://blog.gyrosco.pe/smooth-css-animations-7d8ffc2c1d29#.y6p8vkehd)
+* [Css 基础知识（SoloLearn 官网）](https://www.sololearn.com/Course/CSS/)
+
+---
+### 学习 JavaScript
+
+* Javascript [文档](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+* 课程/教程
+   * [Javascript for Beginners (1) EDX](https://www.edx.org/course/html5-part-1-html5-coding-essentials-w3cx-html5-1x-1)
+   * [Javascript for Beginners (2) EDX](https://www.edx.org/course/html5-part-2-advanced-techniques-w3cx-html5-2x-1)
+   * [The Right Way](http://jstherightway.org/) 译注：该JavaScript网站将一些顶尖开发者的文章、提醒和技巧收集并分享出来
+   * Courses 官网- 主题包括但不限于以下: webpack, nodejs, npm, es5, es6, esnext, & rxjs, typescript
+     * [[Course Link]](http://courses.angularclass.com/courses/modern-javascript) [[Reddit Post]](https://www.reddit.com/r/learnjavascript/comments/4vz5y6/learn_modern_javascript_for_free_topics_covered/)
+   * Edabit 官网- Learn JavaScript With Interactive Challenges: Earn XP, Unlock Achievements & Climb The Leaderboard
+     * [[Edabit - Website Link]](https://edabit.com/explore) [[Reddit Post]](https://www.reddit.com/r/learnprogramming/comments/5vc3gb/learn_javascript_with_interactive_challenges_earn/)
+   * Rithmschool 官网- 免费高级JavaScript课程 - 学习面向对象编程，调用应用和绑定，测试，功能编程等等[Rithmschool](https://www.rithmschool.com/courses#advanced-javascript)
   * [Intermediate Course - Udacity - OOP JS](https://www.udacity.com/course/object-oriented-javascript--ud015)
-  * [JavaScript Tutorial](https://www.sololearn.com/Course/JavaScript/)
-* Projects
+  * [JavaScript 教程](https://www.sololearn.com/Course/JavaScript/)
+* 工程项目
   * [JS 30 For 30 - 30 Projects for 30 Days](https://javascript30.com/)
   * [Learn to Code with Projects - enlight.ml](https://enlight.ml/)
   * **[13 Weeks of JavaScript (Medium)](https://medium.com/@___aerox___/the-beginning-of-an-adventure-13-weeks-of-javascript-78107605d533#.xgqnrstd1)** - TONS of links to JS resources
-* Articles/Books
+* 文章/书籍
   * [Recursion, Recursion, Recursion (Medium)](https://medium.freecodecamp.com/recursion-recursion-recursion-4db8890a674d#.dtkatvb6j)
   * [Eloquent JS](http://eloquentjavascript.net/) - Free JavaScript Ebook
   * [You don't know JS](https://github.com/getify/You-Dont-Know-JS) - Free, hosted on GitHub
@@ -130,7 +130,7 @@
   * [Asynchronous Module Definition](http://requirejs.org/docs/api.html)
 
 ---
-### Learn React JS
+### 学习 React JS
 
 * Official React [Docs](https://facebook.github.io/react/docs/hello-world.html)
 * Official React [Tutorial](https://facebook.github.io/react/tutorial/tutorial.html)
