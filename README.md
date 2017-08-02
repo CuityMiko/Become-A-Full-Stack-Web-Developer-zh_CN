@@ -1,6 +1,6 @@
 # 学习Web全栈开发的100+免费资源
 翻译至 [Become-A-Full-Stack-Web-Developer](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer)
-> 翻译如有误，请issues，不胜感激，大部分资源都是英文
+> 大部分资源都是英文
 
 #### **你好，我创建了下面的列表并会坚持更新，如果您想了解Web开发世界中的最新趋势，教程和文章，请订阅我每周一次的简报！**
 
