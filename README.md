@@ -1,31 +1,32 @@
 # 学习Web全栈开发的100+免费资源
-此翻译至 [Become-A-Full-Stack-Web-Developer](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer)
-> 翻译如有误，请issues，不胜感激           
-大部分资源都是英文
+翻译至 [Become-A-Full-Stack-Web-Developer](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer)
+> 翻译如有误，请issues，不胜感激，大部分资源都是英文
+
+#### **你好，我创建了下面的列表并会坚持更新，如果您想了解Web开发世界中的最新趋势，教程和文章，请订阅我每周一次的简报！**
+
+### [Subscribe To The Weekly Newsletter Here](https://docs.google.com/forms/d/e/1FAIpQLSeQYYmBCBfJF9MXFmRJ7hnwyXvMwyCtHC5wxVDh5Cq--VT6Fg/viewform)
 
 
-下面的列表是一系列知识点的链接，这些知识给了我非常多帮助（希望也能帮助到你）。如你所见，我主要关注JavaScript, React 和 Node.js。同时，这里也有大量关于面试准备和申请工作的资讯。
-
-我会定期更新和添加链接。如果你有投稿，请PR！
+[订阅周报](https://docs.google.com/forms/d/e/1FAIpQLSeQYYmBCBfJF9MXFmRJ7hnwyXvMwyCtHC5wxVDh5Cq--VT6Fg/viewform)
 
 ---
 
 ### 目录
 1. **[开始](#开始)**
 2. **[如何学习](#如何学习)**
-3. **[你收藏最有用的书签是什么](#你收藏最有用的书签是什么)**
-4. **[Programs & Classes](#programs-and-classes)**
+3. **[What is the Most Useful CS Bookmark You have](#what-is-the-single-most-useful-cs-bookmark-you-have)**
+4. **[编码课程](#编码课程)**
 5. **[学习 HTML](#学习-html)**
 6. **[学习 CSS](#学习-css)**
 7. **[学习 JavaScript](#学习-javascript)**
 8. **[学习 React.js](#学习-react-js)**
-9. **[Full Stack Tutorials](#full-stack-tutorials)**
-10. **[Learn Node.js](#learn-node-js)**
-11. **[Learn Python](#learn-python)**
-12. **[Learn APIs](#learn-apis)**
-13. **[Learn Databases](#learn-databases)**
-14. **[Learn Authentication](#learn-authentication)**
-15. **[Learn Git](#learn-git)**
+9. **[全栈教程](#全栈教程)**
+10. **[学习 Node.js](#学习-node-js)**
+11. **[学习 Python](#学习-python)**
+12. **[学习 APIs](#学习-apis)**
+13. **[学习 Databases](#学习-databases)**
+14. **[学习 Authentication](#学习-authentication)**
+15. **[学习 Git](#学习-git)**
 16. **[Games & Challenge Websites](#games-and-challenge-websites)**
 17. **[Free Programming Books](#free-programming-books)**
 18. **[Open Source Contribution Opportunities](#open-source-contribution-opportunities)**
@@ -34,14 +35,18 @@
 21. **[Resume's, Portfolio's, LinkedIn, Interview Prep, & Salary Information](#get-the-job)**
 
 ---
+
 ### 开始
+
 * 先看看一个大图: [**成为Web开发者的路线图2017**](https://github.com/kamranahmedse/developer-roadmap)
 * 和上面图片内容大致相同，以视频格式概述 - [Watch this if you want to become a web developer](https://www.youtube.com/watch?v=sBzRwzY7G-k)
 * 了解全栈开发常用的相关工具 - [What is the A-Z of Web Development?](https://www.quora.com/What-is-the-A-Z-of-web-development-and-web-design)
 * [My journey to becoming a web developer from scratch without a CS degree (and what I learned from it)](https://medium.freecodecamp.com/my-journey-to-becoming-a-web-developer-from-scratch-without-a-cs-degree-2-years-later-and-what-i-4a7fd2ff5503#.vk5vkb18q) (Medium)
-* 当您在地址栏中输入google时会发生什么? [[Reddit Link]](https://www.reddit.com/r/cscareerquestions/comments/55ydbs/common_interview_question_what_happens_when_you/)
+* 在地址栏中输入 google 时发生了什么?           
+  * [Reddit Link](https://www.reddit.com/r/cscareerquestions/comments/55ydbs/common_interview_question_what_happens_when_you/)
   * [Tuts Plus - The http protocol every web developer must know](https://code.tutsplus.com/tutorials/http-the-protocol-every-web-developer-must-know-part-1--net-31177)
-* 找到本地的Web开发者(译注：Meetup 是美国一个付费会员制社交门户网站) [Meetup!](https://www.meetup.com/)
+* 找到本地的Web开发者(注：Meetup 是美国一个付费会员制社交门户网站) [Meetup!](https://www.meetup.com/)
+
 ---
 ### 如何学习
 * How to Learn.
@@ -49,10 +54,10 @@
   * 重复，重复，重复，关于学习技巧的一个很好的讨论 [Reddit Post](https://www.reddit.com/r/learnprogramming/comments/5pyx5t/a_beginners_trick_i_learned_way_too_late_in_the/)
 
 ---
-### 你收藏最有用的书签是什么?
+### What is the Single most useful CS Bookmark you have?
 
-* 你收藏最有用的书签是什么? [[Reddit Link]](https://www.reddit.com/r/cscareerquestions/comments/5bsg82/whats_the_single_most_useful_csrelated_link_you/)
-  * [Learn X in Y Minutes(译注：以一个简单示例展示各语言特点的网站)](https://learnxinyminutes.com/)
+* What is the single most useful CS Bookmark you have? [Reddit Link to discussion](https://www.reddit.com/r/cscareerquestions/comments/5bsg82/whats_the_single_most_useful_csrelated_link_you/)
+  * [Learn X in Y Minutes](https://learnxinyminutes.com/)
   * [What CS Majors Should Know](http://matt.might.net/articles/what-cs-majors-should-know/)
   * [Google's Technical Development Guide](https://www.google.com/about/careers/students/guide-to-technical-development.html)
   * [CSS Tricks - Complete Flexbox Guide](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
@@ -62,7 +67,7 @@
   * [How to Break Into the Tech Industry—a Guide to Job Hunting and Tech Interviews](http://haseebq.com/how-to-break-into-tech-job-hunting-and-interviews/)
 
 ---
-### Programs and Classes
+### 编码课程
 * Programs
   * [The Odin Project](http://www.theodinproject.com/)
   * [FreeCodeCamp](https://www.freecodecamp.com/)
@@ -71,17 +76,14 @@
 * Classes
   * [SANITIZED list of 530+ free online programming/CS courses (MOOCs) with feedback(i.e. exams/homeworks/assignments) that you can start this month (December 2016)](https://www.reddit.com/r/learnprogramming/comments/5gr8nw/heres_a_sanitized_list_of_530_free_online/) - *Needs Updating*
   * [Udacity Free Web Development Courses (Google)](https://www.udacity.com/courses/web-development)
-
----
-### Assorted Reddit Links (Still need to sort)
-* Tutorial/Screencast: [Let's Learn Algorithms: An Intro to Binary Search](https://www.reddit.com/r/learnprogramming/comments/5d56pd/lets_learn_algorithms_an_intro_to_binary_search/)
-* [Thoughts on Coding Boot camps](https://www.reddit.com/r/learnprogramming/comments/5ew1gs/thoughts_on_coding_boot_camps/)
-* [The Complete Guide to Bootcamps](https://www.reddit.com/r/cscareerquestions/comments/506myw/the_complete_guide_to_bootcamps/)
-* Self Study - My programming notes. 275 Pages of Content [[Updated Reddit Link]](https://www.reddit.com/r/learnprogramming/comments/5opg9k/my_programming_notes_275_pages_summaries_of/) [[Original Reddit Link]](https://www.reddit.com/r/learnprogramming/comments/4iewun/my_programming_notes_141_pages_summaries_of/)
-* JavaScript / Node / Angular 1 & 2 / React / Elm / C# / PHP / SQL / Git [Google Drive](https://drive.google.com/folderview?id=0BztLOG55I2FVT0NNLTVXM1JOYlk&usp=sharing)
-* [Watch And Code](https://watchandcode.com/)
-* [RegexOne](http://regexone.com/) - Learn Regular Expressions
-* [Google University GitHub Repo](https://github.com/jwasham/coding-interview-university)
+* Bootcamps
+  * [Thoughts on Coding Boot camps](https://www.reddit.com/r/learnprogramming/comments/5ew1gs/thoughts_on_coding_boot_camps/)
+  * [The Complete Guide to Bootcamps](https://www.reddit.com/r/cscareerquestions/comments/506myw/the_complete_guide_to_bootcamps/)
+  * Self Study - My programming notes. 275 Pages of Content [[Updated Reddit Link]](https://www.reddit.com/r/learnprogramming/comments/5opg9k/my_programming_notes_275_pages_summaries_of/) [[Original Reddit Link]](https://www.reddit.com/r/learnprogramming/comments/4iewun/my_programming_notes_141_pages_summaries_of/)
+* Paid
+  * [The Web Developer Bootcamp by Colt Steele](https://goo.gl/qTzEtx). I include this paid course because it because it is worth its weight in gold. Inexpensive (less than $20) and one of the best resources out there. If you're going to buy one course, buy this one.
+* GitHub
+  * [A Step by Step Guide to Making Your First GitHub Contribution](https://codeburst.io/a-step-by-step-guide-to-making-your-first-github-contribution-5302260a2940)
 
 ---
 ### 学习 HTML
@@ -152,7 +154,7 @@
   * [Angular JS vs React JS (Medium)](https://medium.com/@paramsingh_66174/angularjs-vs-reactjs-e651a194dfcb#.bbx4qapwu)
 
 ---
-### Full Stack Tutorials
+### 全栈教程
 
 * [Intro to Back End Web Development](https://www.udacity.com/course/intro-to-backend--ud171)
 * [Deploying Applications with Heroku](https://www.udacity.com/course/deploying-applications-with-heroku--ud272)
@@ -177,7 +179,7 @@
 * [90 Full Stack React Examples (some with tuts)](https://react.rocks/tag/FullStack?show=40)
 
 ---
-### Learn Node JS
+### 学习 Node JS
 
 * Official Node.js [Docs](https://nodejs.org/en/docs/)
 * Best Resource for learning Node.js [[Reddit Link]](https://www.reddit.com/r/learnprogramming/comments/5xpidt/best_resource_to_learn_nodejs/)
@@ -190,13 +192,13 @@
 * [10 Best Practices for Writing Node.js REST APIs](https://blog.risingstack.com/10-best-practices-for-writing-node-js-rest-apis/?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more)
 
 ---
-### Learn Python
+### 学习 Python
 * [15 Free e-books to learn Python](https://medium.com/@bmorelli25/15-free-ebooks-to-learn-python-c299943f9f2c)
 * [Programming Foundations with Python - Udacity](https://www.udacity.com/course/programming-foundations-with-python--ud036)
 * [Designing RESTful APIs - Udacity](https://www.udacity.com/course/designing-restful-apis--ud388)
 
 ---
-### Learn APIs
+### 学习 APIs
 
 * Where to start with learning APIs [[Reddit Link]](https://www.reddit.com/r/learnprogramming/comments/5761ir/where_to_start_with_learning_how_to_use_apis/)
   * [What is an API? In English Please. (Medium)](https://medium.freecodecamp.com/what-is-an-api-in-english-please-b880a3214a82#.vewp5i2n4)
@@ -207,7 +209,7 @@
   * [Build and Secure a Backend API Server](https://www.udacity.com/course/designing-restful-apis--ud388)
 
 ---
-### Learn Databases
+### 学习 Databases
 * [SQL vs NoSQL](https://www.digitalocean.com/community/tutorials/understanding-sql-and-nosql-databases-and-different-database-models)
 * [Intro to Relational Databases](https://www.udacity.com/course/intro-to-relational-databases--ud197) - SQL, DB-API, and More!
 * [MongoDB University](https://university.mongodb.com/) - Numerous classes on learning MongoDB
@@ -218,14 +220,14 @@
 * [Redis Tutorial](https://www.tutorialspoint.com/redis/)
 
 ---
-### Learn Authentication
+### 学习 Authentication
 * [Authentication & Authorization: OAuth](https://www.udacity.com/course/authentication-authorization-oauth--ud330)
 * [Learn about JSON Web Tokens](https://jwt.io/introduction/)
 * [OAuth 2](https://aaronparecki.com/oauth-2-simplified/#web-server-apps)
 * [Passwordless Authentication with React and Auth0](https://medium.com/javascript-scene/passwordless-authentication-with-react-and-auth0-c4cb003c7cde#.l1joiokr2)
 
 ---
-### Learn Git
+### 学习 Git
 * Official [Tutorial](https://try.github.io/levels/1/challenges/1) - Learn Git in 15 Minutes
 * Official [Docs](https://git-scm.com/documentation)
 * Other Tuts:
@@ -308,6 +310,7 @@
 **Resume, Portfolio, LinkedIn, Interview Prep, and Salary Information**
 * Make your portfolio
   * [Customizable Web Developer Portfolio](https://github.com/bmorelli25/portfolio-template) - Built with Flexbox. 
+  * [10 Awesome Web Developer Portfolios](https://codeburst.io/10-awesome-web-developer-portfolios-d266b32e6154)
 
 * How to Apply
   * [I spent 3 months applying to jobs after a coding bootcamp. Here’s what I learned. (Medium)](https://medium.freecodecamp.com/5-key-learnings-from-the-post-bootcamp-job-search-9a07468d2331#.lpuzt5pnw)
@@ -338,7 +341,19 @@
   * [10 Interview Questions every JS Developer should know (Medium)](https://medium.com/javascript-scene/10-interview-questions-every-javascript-developer-should-know-6fa6bdf5ad95#.v0dk97v5v)
 
 * Salary Information
+  * [How Much Do Software Developers Make in 2017?](https://codeburst.io/how-much-do-software-developers-make-in-2017-e6ae657966be)
   * [12/2016 Salary Sharing Thread (<2 yrs Experience)](https://www.reddit.com/r/cscareerquestions/comments/5h6xvj/official_salary_sharing_thread_for_new_grads/)
   * [Salary Negotiations and how not to set a bunch of money on fire (Medium)](https://medium.freecodecamp.com/salary-negotiation-how-not-to-set-a-bunch-of-money-on-fire-605aabbaf84b#.75xz4zut8)
   * [10 Rules for negotiating a job offer (Medium)](https://medium.freecodecamp.com/ten-rules-for-negotiating-a-job-offer-ee17cccbdab6#.g8u1wnyw8)
   * [How not to bomb your offer negotiation (Medium)](https://medium.freecodecamp.com/how-not-to-bomb-your-offer-negotiation-c46bb9bc7dea#.vdfc82rl7)
+  
+---
+### Assorted Links
+
+* Tutorial/Screencast: [Lets Learn Algorithms: An Intro to Binary Search](https://www.reddit.com/r/learnprogramming/comments/5d56pd/lets_learn_algorithms_an_intro_to_binary_search/)
+* JavaScript / Node / Angular 1 & 2 / React / Elm / C# / PHP / SQL / Git [Google Drive](https://drive.google.com/folderview?id=0BztLOG55I2FVT0NNLTVXM1JOYlk&usp=sharing)
+* [Watch And Code](https://watchandcode.com/)
+* [RegexOne](http://regexone.com/) - Learn Regular Expressions
+* [Google University GitHub Repo](https://github.com/jwasham/coding-interview-university)
+* [Regex 101 by Daniel Shiffman](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6YEypLuls7iidwHMdCM6o2w)
+* [20 Developers to Follow on Twitter](https://codeburst.io/best-web-developers-to-follow-on-twitter-9318a3f6525a)
