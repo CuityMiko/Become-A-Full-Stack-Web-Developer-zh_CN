@@ -35,20 +35,20 @@
 
 ### 开始
 
-* 先看看一个大图: [**成为Web开发者的路线图2017**](https://github.com/kamranahmedse/developer-roadmap)
-* 和上面图片内容大致相同，以视频格式概述 - [Watch this if you want to become a web developer](https://www.youtube.com/watch?v=sBzRwzY7G-k)
-* 了解全栈开发常用的相关工具 - [What is the A-Z of Web Development?](https://www.quora.com/What-is-the-A-Z-of-web-development-and-web-design)
-* [My journey to becoming a web developer from scratch without a CS degree (and what I learned from it)](https://medium.freecodecamp.com/my-journey-to-becoming-a-web-developer-from-scratch-without-a-cs-degree-2-years-later-and-what-i-4a7fd2ff5503#.vk5vkb18q) (Medium)
+* 先看看一个大图：[**成为Web开发者的路线图2017**](https://github.com/kamranahmedse/developer-roadmap)
+* 和上面图片内容大致相同，以视频格式概述： [Watch this if you want to become a web developer](https://www.youtube.com/watch?v=sBzRwzY7G-k)
+* 了解全栈开发常用的相关工具： [What is the A-Z of Web Development?](https://www.quora.com/What-is-the-A-Z-of-web-development-and-web-design)
+* Mudium 上的一篇文章：[从零开始成为 Web 开发人员的“旅程”](https://medium.freecodecamp.com/my-journey-to-becoming-a-web-developer-from-scratch-without-a-cs-degree-2-years-later-and-what-i-4a7fd2ff5503#.vk5vkb18q)
 * 在地址栏中输入 google 时发生了什么?           
   * [Reddit Link](https://www.reddit.com/r/cscareerquestions/comments/55ydbs/common_interview_question_what_happens_when_you/)
   * [Tuts Plus - The http protocol every web developer must know](https://code.tutsplus.com/tutorials/http-the-protocol-every-web-developer-must-know-part-1--net-31177)
-* 找到本地的Web开发者(注：Meetup 是美国一个付费会员制社交门户网站) [Meetup!](https://www.meetup.com/)
+* 找到本地的Web开发同行(注：Meetup 是美国一个付费会员制社交门户网站)： [Meetup!](https://www.meetup.com/)
 
 ---
 ### 如何学习
 * How to Learn.
-  * 到coursera网站学习 - [Learning how to learn](https://www.coursera.org/learn/learning-how-to-learn)
-  * 重复，重复，重复，关于学习技巧的一个很好的讨论 [Reddit Post](https://www.reddit.com/r/learnprogramming/comments/5pyx5t/a_beginners_trick_i_learned_way_too_late_in_the/)
+  * 到coursera网站学习： [Learning how to learn](https://www.coursera.org/learn/learning-how-to-learn)
+  * 重复，重复，重复，关于学习技巧的一个很好的讨论：[Reddit Post](https://www.reddit.com/r/learnprogramming/comments/5pyx5t/a_beginners_trick_i_learned_way_too_late_in_the/)
 
 ---
 ### What is the Single most useful CS Bookmark you have?
@@ -90,15 +90,18 @@
 * [HTML5 简介(EDX 官网)](https://www.edx.org/course/html5-introduction-w3cx-html5-0x-0)
 * [学习 HTML & CSS 编码(Shay Howe 官网)](http://learn.shayhowe.com/html-css/)
 * [HTML 基础知识(SoloLearn 官网)](https://www.sololearn.com/Course/HTML/)
+* [HTML “作弊”表](https://websitesetup.org/html5-cheat-sheet/)*认真脸：好的学习资源*
 
 ---
 ### 学习 CSS
 
-* [您需要了解的关于Flexbox的一切](https://medium.freecodecamp.com/understanding-flexbox-everything-you-need-to-know-b4013d4dc9af#.nusbqoyuc) *认真脸：这是我发现的最好的Flexbox学习资源*
+* [您需要了解的关于Flexbox的一切](https://medium.freecodecamp.com/understanding-flexbox-everything-you-need-to-know-b4013d4dc9af#.nusbqoyuc) *认真脸：好的学习资源*
+* [Build a Minimalist HTML Card in just 53 lines of code (with Flexbox)](https://codeburst.io/build-a-minimalist-html-card-in-just-53-lines-of-code-with-flexbox-b40801927eb5)
 * [CSS视觉指南](http://cssreference.io/)
 * [CSS专业技巧](https://github.com/AllThingsSmitty/css-protips?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more)
 * [平滑Web动画的10个原理](https://blog.gyrosco.pe/smooth-css-animations-7d8ffc2c1d29#.y6p8vkehd)
 * [Css 基础知识（SoloLearn 官网）](https://www.sololearn.com/Course/CSS/)
+* [Css “作弊”表](https://websitesetup.org/css3-cheat-sheet/) *认真脸：好的学习资源*
 
 ---
 ### 学习 JavaScript
@@ -107,7 +110,7 @@
 * 课程/教程
    * [Javascript for Beginners (1) EDX](https://www.edx.org/course/html5-part-1-html5-coding-essentials-w3cx-html5-1x-1)
    * [Javascript for Beginners (2) EDX](https://www.edx.org/course/html5-part-2-advanced-techniques-w3cx-html5-2x-1)
-   * [The Right Way](http://jstherightway.org/) 译注：该JavaScript网站将一些顶尖开发者的文章、提醒和技巧收集并分享出来
+   * [The Right Way](http://jstherightway.org/) 注：该JavaScript网站将一些顶尖开发者的文章、提醒和技巧收集并分享出来
    * Courses 官网- 主题包括但不限于以下: webpack, nodejs, npm, es5, es6, esnext, & rxjs, typescript
      * [[Course Link]](http://courses.angularclass.com/courses/modern-javascript) [[Reddit Post]](https://www.reddit.com/r/learnjavascript/comments/4vz5y6/learn_modern_javascript_for_free_topics_covered/)
    * Edabit 官网- Learn JavaScript With Interactive Challenges: Earn XP, Unlock Achievements & Climb The Leaderboard
@@ -115,11 +118,29 @@
    * Rithmschool 官网- 免费高级JavaScript课程 - 学习面向对象编程，调用应用和绑定，测试，功能编程等等[Rithmschool](https://www.rithmschool.com/courses#advanced-javascript)
   * [Intermediate Course - Udacity - OOP JS](https://www.udacity.com/course/object-oriented-javascript--ud015)
   * [JavaScript 教程](https://www.sololearn.com/Course/JavaScript/)
+
+* Understanding Tougher Topics  
+  * [JavaScript - The keyword 'this' for beginners](https://codeburst.io/javascript-the-keyword-this-for-beginners-fb5238d99f85)
+  * [JavaScript - Arrow Functions for Beginners](https://codeburst.io/javascript-arrow-functions-for-beginners-926947fc0cdc)
+  * [JavaScript: What the heck is a Callback?](https://codeburst.io/javascript-what-the-heck-is-a-callback-aba4da2deced)
+  * [JavaScript: What the heck is an Immediately-Invoked Function Expression?](https://codeburst.io/javascript-what-the-heck-is-an-immediately-invoked-function-expression-a0ed32b66c18)
+  * [JavaScript for Beginners: The new Operator](https://codeburst.io/javascript-for-beginners-the-new-operator-cee35beb669e)
+  * [Javascript: Learn Regular Expressions for Beginners](https://codeburst.io/javascript-learn-regular-expressions-for-beginners-bb6107015d91)
+  * [JavaScript Template Literals and Tag Functions for Beginners](https://codeburst.io/javascript-template-literals-tag-functions-for-beginners-758a041160e1)
+  * [JavaScript & the spread operator](https://codeburst.io/javascript-the-spread-operator-a867a71668ca)
+  * [JavaScript: What is short-circuit evaluation?](https://codeburst.io/javascript-what-is-short-circuit-evaluation-ff22b2f5608c)
+  * [JavaScript: What is the ternary operator?](https://codeburst.io/javascript-what-is-the-ternary-operator-c819af8a7f6c)
+  * [JavaScript: Why does 3 + true = 4? (and 7 other tricky equations)](https://codeburst.io/javascript-why-does-3-true-4-and-7-other-tricky-equations-9dd13cb2a92a)
+  * [JavaScript — What’s the difference between Null & Undefined?](https://codeburst.io/javascript-whats-the-difference-between-null-undefined-37793b5bfce6)
+  * [Learn and Understand Recursion in JavaScript](https://codeburst.io/learn-and-understand-recursion-in-javascript-b588218e87ea)
+  * [Understand Closures in JavaScript](https://codeburst.io/understand-closures-in-javascript-d07852fa51e7)
+
 * 工程项目
   * [JS 30 For 30 - 30 Projects for 30 Days](https://javascript30.com/)
   * [Learn to Code with Projects - enlight.ml](https://enlight.ml/)
-  * **[13 Weeks of JavaScript (Medium)](https://medium.com/@___aerox___/the-beginning-of-an-adventure-13-weeks-of-javascript-78107605d533#.xgqnrstd1)** - TONS of links to JS resources
+  * **[13 Weeks of JavaScript (Medium)](https://medium.com/@___aerox___/the-beginning-of-an-adventure-13-weeks-of-javascript-78107605d533#.xgqnrstd1)**
 * 文章/书籍
+  * [3个极好且免费学习 JavaScript 的电子书](https://codeburst.io/three-awesome-and-free-ebooks-for-learning-javascript-c874f65bbd7a)
   * [Recursion, Recursion, Recursion (Medium)](https://medium.freecodecamp.com/recursion-recursion-recursion-4db8890a674d#.dtkatvb6j)
   * [Eloquent JS](http://eloquentjavascript.net/) - Free JavaScript Ebook
   * [You don't know JS](https://github.com/getify/You-Dont-Know-JS) - Free, hosted on GitHub
@@ -131,21 +152,21 @@
 ---
 ### 学习 React JS
 
-* Official React [Docs](https://facebook.github.io/react/docs/hello-world.html)
-* Official React [Tutorial](https://facebook.github.io/react/tutorial/tutorial.html)
-* 3rd Party Tutorials
+* 官方文档： [Docs](https://facebook.github.io/react/docs/hello-world.html)
+* 官方教程：[Tutorial](https://facebook.github.io/react/tutorial/tutorial.html)
+* 三方教程
   * [10 React Mini Patterns](https://hackernoon.com/10-react-mini-patterns-c1da92f068c5#.nn8nyilyi)
   * [Top 5 Tutorials for getting started with React](http://andrewhfarmer.com/getting-started-tutorials/)
   * [10 best ReactJS tutorials](http://noeticforce.com/best-reactjs-tutorials-with-examples)
   * [React Starter Project Search](http://andrewhfarmer.com/starter-project/)
-  * [Exploring the react Ecosystem!](https://www.toptal.com/react/navigating-the-react-ecosystem) - Article
+  * [Exploring the react Ecosystem!](https://www.toptal.com/react/navigating-the-react-ecosystem)
   * [Code academy React program](HTTPS://www.codeacademy.com)
-  * [Great Free React books](https://github.com/vhf/free-programming-books/blob/master/javascript-frameworks-resources.md) - Use this link first
+  * [Great Free React books](https://github.com/vhf/free-programming-books/blob/master/javascript-frameworks-resources.md)
   * [Code Daily](https://codedaily.io/)
   * [Build a Todo Application with React Native](https://codedaily.io/courses/2/Build-a-React-Native-Todo-Application)
   * [Learn to Animate with React Native](https://codedaily.io/courses/1/Animate-React-Native-UI-Elements)
-* Medium Links:
-  * [React Components, Elements, and Instances (Medium)](https://medium.com/@dan_abramov/react-components-elements-and-instances-90800811f8ca#.rjx4d6bgw)
+* Medium 站点的文章:
+  * [React Components, Elements, and Instances](https://medium.com/@dan_abramov/react-components-elements-and-instances-90800811f8ca#.rjx4d6bgw)
   * [Working with React](https://medium.com/@prodia/working-with-react-js-3e21a2ff5443#.ensczdgi0)
   * [Beginners guide to React Router (Medium)](https://medium.com/@dabit3/beginner-s-guide-to-react-router-53094349669#.4lul6fhvy)
   * [Angular JS vs React JS (Medium)](https://medium.com/@paramsingh_66174/angularjs-vs-reactjs-e651a194dfcb#.bbx4qapwu)
@@ -178,15 +199,22 @@
 ---
 ### 学习 Node JS
 
-* Official Node.js [Docs](https://nodejs.org/en/docs/)
-* Best Resource for learning Node.js [[Reddit Link]](https://www.reddit.com/r/learnprogramming/comments/5xpidt/best_resource_to_learn_nodejs/)
+* 官方文档： [Docs](https://nodejs.org/en/docs/)
+* 学习 Node.js 的其他资源： 
+  * [Reddit Link](https://www.reddit.com/r/learnprogramming/comments/5xpidt/best_resource_to_learn_nodejs/)
   * [YouTube](https://www.youtube.com/watch?v=w-7RQ46RgxU&list=PL4cUxeGkcC9gcy9lrvMJ75z9maRw4byYp)
   * [Colt Steele's Bootcamp](udemy.com)
   * [Node School](https://nodeschool.io/#workshoppers)
   * [Medium - Why the hell would you use Node?](https://medium.com/the-node-js-collection/why-the-hell-would-you-use-node-js-4b053b94ab8e#.9s49rbove)
-* [Building a modern backend API with Node](https://scotch.io/tutorials/building-and-securing-a-modern-backend-api?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more)
-* [Node JS Login with Passport - YouTube](https://www.youtube.com/watch?v=Z1ktxiqyiLA)
-* [10 Best Practices for Writing Node.js REST APIs](https://blog.risingstack.com/10-best-practices-for-writing-node-js-rest-apis/?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more)
+* 教程类：
+  * [Three awesome courses for learning Node.js (Paid courses under $20)](https://codeburst.io/three-awesome-courses-for-learning-node-js-d7f761437101)
+  * [Build a simple Twitter Bot with Node.js in just 38 lines of code](https://codeburst.io/build-a-simple-twitter-bot-with-node-js-in-just-38-lines-of-code-ed92db9eb078)
+  * [Build a simple Twitter Bot with Node.js - PART 2](https://codeburst.io/build-a-simple-twitter-bot-with-node-js-part-2-do-more-2ef1e039715d)
+  * [Build a simple Weather App with Node.js in just 16 lines of code](https://codeburst.io/build-a-simple-weather-app-with-node-js-in-just-16-lines-of-code-32261690901d)
+  * [Learn to build an Amazon Alexa Skill with Node.js (and get paid to do it)](https://codeburst.io/learn-to-build-an-amazon-alexa-skill-with-node-js-and-get-paid-to-do-it-cf55ae534650)
+  * [Building a modern backend API with Node](https://scotch.io/tutorials/building-and-securing-a-modern-backend-api?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more)
+  * [Node JS Login with Passport - YouTube](https://www.youtube.com/watch?v=Z1ktxiqyiLA)
+  * [10 Best Practices for Writing Node.js REST APIs](https://blog.risingstack.com/10-best-practices-for-writing-node-js-rest-apis/?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more)
 
 ---
 ### 学习 Python
@@ -197,13 +225,13 @@
 ---
 ### 学习 APIs
 
-* Where to start with learning APIs [[Reddit Link]](https://www.reddit.com/r/learnprogramming/comments/5761ir/where_to_start_with_learning_how_to_use_apis/)
-  * [What is an API? In English Please. (Medium)](https://medium.freecodecamp.com/what-is-an-api-in-english-please-b880a3214a82#.vewp5i2n4)
-  * [Build Node.js RESTful APIs in 10 Minutes](https://www.codementor.io/olatundegaruba/nodejs-restful-apis-in-10-minutes-q0sgsfhbd)
-  * [Free Intro to APIs Book/Course by Zapier](https://zapier.com/learn/apis/)
-  * [Google Maps API](https://developers.google.com/maps/documentation/)
-  * [Distance Calculator Web Services API](https://developers.google.com/maps/documentation/distance-matrix/start)
-  * [Build and Secure a Backend API Server](https://www.udacity.com/course/designing-restful-apis--ud388)
+* [Where to start with learning APIs](https://www.reddit.com/r/learnprogramming/comments/5761ir/where_to_start_with_learning_how_to_use_apis/)
+* [What is an API? In English Please. (Medium)](https://medium.freecodecamp.com/what-is-an-api-in-english-please-b880a3214a82#.vewp5i2n4)
+* [Build Node.js RESTful APIs in 10 Minutes](https://www.codementor.io/olatundegaruba/nodejs-restful-apis-in-10-minutes-q0sgsfhbd)
+* [Free Intro to APIs Book/Course by Zapier](https://zapier.com/learn/apis/)
+* [Google Maps API](https://developers.google.com/maps/documentation/)
+* [Distance Calculator Web Services API](https://developers.google.com/maps/documentation/distance-matrix/start)
+* [Build and Secure a Backend API Server](https://www.udacity.com/course/designing-restful-apis--ud388)
 
 ---
 ### 学习 Databases
@@ -225,9 +253,9 @@
 
 ---
 ### 学习 Git
-* Official [Tutorial](https://try.github.io/levels/1/challenges/1) - Learn Git in 15 Minutes
-* Official [Docs](https://git-scm.com/documentation)
-* Other Tuts:
+* [官方教程](https://try.github.io/levels/1/challenges/1) - Learn Git in 15 Minutes
+* [官方文档](https://git-scm.com/documentation)
+* 其他:
   * [Git, the simple guide](http://rogerdudler.github.io/git-guide/)
   * [Learn Git Branching - Level by Level learning](http://learngitbranching.js.org/)
   * [Learn Git in 30 Minutes - Article](http://tutorialzine.com/2016/06/learn-git-in-30-minutes/)
