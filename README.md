@@ -46,9 +46,8 @@
 
 ---
 ### 如何学习
-* How to Learn.
-  * 到coursera网站学习： [Learning how to learn](https://www.coursera.org/learn/learning-how-to-learn)
-  * 重复，重复，重复，关于学习技巧的一个很好的讨论：[Reddit Post](https://www.reddit.com/r/learnprogramming/comments/5pyx5t/a_beginners_trick_i_learned_way_too_late_in_the/)
+* 到coursera网站学习： [Learning how to learn](https://www.coursera.org/learn/learning-how-to-learn)
+* 重复，重复，重复，关于学习技巧的一个很好的讨论：[Reddit Post](https://www.reddit.com/r/learnprogramming/comments/5pyx5t/a_beginners_trick_i_learned_way_too_late_in_the/)
 
 ---
 ### What is the Single most useful CS Bookmark you have?
