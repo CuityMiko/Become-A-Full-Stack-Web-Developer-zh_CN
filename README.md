@@ -1,10 +1,11 @@
 # 学习Web全栈开发的100+免费资源
-翻译至 [Become-A-Full-Stack-Web-Developer](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer)
-> 大部分资源都是英文
+原文 [Become-A-Full-Stack-Web-Developer](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer)
 
-#### **你好，我创建了下面的列表并会坚持更新，如果您想了解Web开发世界中的最新趋势，教程和文章，请订阅我每周的简报！**
+#### **你好，我创建了下面的列表并会坚持更新，如果您想了解Web开发世界中的最新趋势，教程和文章，请订阅我每周的周报！**
 
-### [订阅周报](https://docs.google.com/forms/d/e/1FAIpQLSeQYYmBCBfJF9MXFmRJ7hnwyXvMwyCtHC5wxVDh5Cq--VT6Fg/viewform)
+### [订阅周报](https://docs.google.com/forms/d/e/1FAIpQLSeQYYmBCBfJF9MXFmRJ7hnwyXvMwyCtHC5wxVDh5Cq--VT6Fg/viewform)       
+
+> 一周仅一封邮件，且非常容易退订。
 
 ---
 
@@ -24,8 +25,8 @@
 13. **[学习 Databases](#学习-databases)**
 14. **[学习 Authentication](#学习-authentication)**
 15. **[学习 Git](#学习-git)**
-16. **[Games & Challenge Websites](#games-and-challenge-websites)**
-17. **[Free Programming Books](#free-programming-books)**
+16. **[游戏和开发具有挑战性的网站](#游戏和开发具有挑战性的网站)**
+17. **[免费编程书籍](#免费编程书籍)**
 18. **[Open Source Contribution Opportunities](#open-source-contribution-opportunities)**
 19. **[Am I Ready to be a Developer?](#am-i-ready-to-be-a-developer)**
 20. **[Software Developer Success Stories](#software-developer-success-stories)**
@@ -262,9 +263,9 @@
 * Why to Use GIT [No, I have no side projects to show you](https://www.linkedin.com/pulse/i-have-side-code-projects-show-you-ezekiel-buchheit)
 
 ---
-### Games and Challenge Websites
+### 游戏和开发具有挑战性的网站
 
-* Games to learn Programming in an easy and fun way [[Reddit Link]](https://www.reddit.com/r/learnprogramming/comments/5wwkxi/do_you_recommend_any_games_to_learn_coding_in_an/)
+* 游戏开发让你能以简单有趣的方式学习编程 [[Reddit Link]](https://www.reddit.com/r/learnprogramming/comments/5wwkxi/do_you_recommend_any_games_to_learn_coding_in_an/)
   * [Flex Box Froggy](http://flexboxfroggy.com/)
   * [Flex Box Defense](http://www.flexboxdefense.com/)
   * [Edabit](https://edabit.com/explore)
@@ -273,7 +274,7 @@
   * [Scratch - Absolute Basics](https://scratch.mit.edu/)
   * [Hacked - Mobile App teaching through puzzles](http://www.hackedapp.com/)
 
-* Coding Challenge Websites [[Reddit Link]](https://www.reddit.com/r/learnprogramming/comments/5oxwjj/any_good_sitesapps_for_small_coding_exercises/) [[Reddit Link #2]](https://www.reddit.com/r/learnprogramming/comments/5g3xgi/anyone_knows_the_name_of_a_website_to_learn_to/)
+* 开发具有挑战性的网站 [[Reddit Link]](https://www.reddit.com/r/learnprogramming/comments/5oxwjj/any_good_sitesapps_for_small_coding_exercises/) [[Reddit Link #2]](https://www.reddit.com/r/learnprogramming/comments/5g3xgi/anyone_knows_the_name_of_a_website_to_learn_to/)
   * [Medium - 10 most popular coding challenge sites of 2016](https://medium.com/coderbyte/the-10-most-popular-coding-challenge-websites-of-2016-fb8a5672d22f#.fn8c7imvk)
   * [Codechef](https://www.codechef.com/)
   * [Code Wars](https://www.codewars.com/)
@@ -283,10 +284,10 @@
   * [Exercism](http://exercism.io/)
 
 ---
-### Free Programming Books
+### 免费编程书籍
 
   * [O'Reilly Offering Programming eBooks for Free (Reddit)](https://www.reddit.com/r/learnprogramming/comments/556kxj/oreilly_offering_programming_ebooks_for_free/)
-  * [GitHub - Thousands of free programming Books on every topic](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md)
+  * [GitHub - Thousands of free programming Books on every topic](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md) *认真脸：真的好多免费书*
   * [Non-Technical Books to make you a better Programmer (Reddit)](https://www.reddit.com/r/learnprogramming/comments/51zz5g/what_non_technical_books_can_i_bring_with_me/)
 
 ---
