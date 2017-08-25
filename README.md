@@ -5,7 +5,7 @@
 
 ### [订阅周报](https://docs.google.com/forms/d/e/1FAIpQLSeQYYmBCBfJF9MXFmRJ7hnwyXvMwyCtHC5wxVDh5Cq--VT6Fg/viewform)       
 
-> 一周仅一封邮件，且非常容易退订。
+> 一周仅一封邮件，且随时可退订。
 
 ---
 
