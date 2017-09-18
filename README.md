@@ -1,5 +1,5 @@
 # 学习Web全栈开发的100+免费资源
-原文 [Become-A-Full-Stack-Web-Developer](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer)
+> [Become-A-Full-Stack-Web-Developer](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer) 中文版
 
 #### **你好，我创建了下面的列表并会坚持更新，如果您想了解Web开发世界中的最新趋势，教程和文章，请订阅我每周的周报！**
 
@@ -27,7 +27,7 @@
 15. **[学习 Git](#学习-git)**
 16. **[游戏和开发具有挑战性的网站](#游戏和开发具有挑战性的网站)**
 17. **[免费编程书籍](#免费编程书籍)**
-18. **[Open Source Contribution Opportunities](#open-source-contribution-opportunities)**
+18. **[给开源社区做贡献的机会](#给开源社区做贡献的机会)**
 19. **[Am I Ready to be a Developer?](#am-i-ready-to-be-a-developer)**
 20. **[Software Developer Success Stories](#software-developer-success-stories)**
 21. **[Resume's, Portfolio's, LinkedIn, Interview Prep, & Salary Information](#get-the-job)**
@@ -291,11 +291,11 @@
   * [Non-Technical Books to make you a better Programmer (Reddit)](https://www.reddit.com/r/learnprogramming/comments/51zz5g/what_non_technical_books_can_i_bring_with_me/)
 
 ---
-### Open Source Contribution Opportunities
+### 给开源社区做贡献的机会
 
-* [Contributing to Open Source on GitHub](https://guides.github.com/activities/contributing-to-open-source/) - The official GitHub guide.
-* [Make your first open source contribution in 5 minutes](https://github.com/Roshanjossey/first-contributions)
-* [How do I get skilled enough to work on open source projects?](https://www.reddit.com/r/learnprogramming/comments/4xts2c/how_do_i_get_skilled_enough_to_work_on_open/)
+* [如何对开源做贡献](https://guides.github.com/activities/contributing-to-open-source/) - *github 官方指南*
+* [在5分钟内制作并贡献你的第一个开源](https://github.com/Roshanjossey/first-contributions)
+* [我如何才能熟练掌握技能来开发开源项目?](https://www.reddit.com/r/learnprogramming/comments/4xts2c/how_do_i_get_skilled_enough_to_work_on_open/)
 * [Exercism](https://github.com/exercism/exercism.io), an open source project to learn programming and a good opportunity to get you started contributing on github.
 * Open Source Contribution Opportunites [[Reddit Discussion]](https://www.reddit.com/r/learnprogramming/comments/5wgefy/many_devs_here_on_reddit_and_on_slack_were_asking/)
   * [Redditor Form to fill out to get notified about Open Source Opportunities](https://devchat.devolio.net/hellocode/)
@@ -373,12 +373,12 @@
   * [How not to bomb your offer negotiation (Medium)](https://medium.freecodecamp.com/how-not-to-bomb-your-offer-negotiation-c46bb9bc7dea#.vdfc82rl7)
   
 ---
-### Assorted Links
+### 其他
 
-* Tutorial/Screencast: [Lets Learn Algorithms: An Intro to Binary Search](https://www.reddit.com/r/learnprogramming/comments/5d56pd/lets_learn_algorithms_an_intro_to_binary_search/)
-* JavaScript / Node / Angular 1 & 2 / React / Elm / C# / PHP / SQL / Git [Google Drive](https://drive.google.com/folderview?id=0BztLOG55I2FVT0NNLTVXM1JOYlk&usp=sharing)
+* 教程: [Lets Learn Algorithms: An Intro to Binary Search](https://www.reddit.com/r/learnprogramming/comments/5d56pd/lets_learn_algorithms_an_intro_to_binary_search/)
+* JavaScript / Node / Angular 1 & 2 / React / Elm / C# / PHP / SQL / Git 的编程笔记 [Google Drive](https://drive.google.com/folderview?id=0BztLOG55I2FVT0NNLTVXM1JOYlk&usp=sharing)
 * [Watch And Code](https://watchandcode.com/)
-* [RegexOne](http://regexone.com/) - Learn Regular Expressions
-* [Google University GitHub Repo](https://github.com/jwasham/coding-interview-university)
+* [RegexOne](http://regexone.com/) - 学习正则表达式
+* [一套完整的学习手册帮助自己准备 Google 的面试](https://github.com/jwasham/coding-interview-university)
 * [Regex 101 by Daniel Shiffman](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6YEypLuls7iidwHMdCM6o2w)
-* [20 Developers to Follow on Twitter](https://codeburst.io/best-web-developers-to-follow-on-twitter-9318a3f6525a)
+* [Twitter 上值得关注的 20 位开发人员](https://codeburst.io/best-web-developers-to-follow-on-twitter-9318a3f6525a)
