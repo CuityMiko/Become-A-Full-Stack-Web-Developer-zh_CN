@@ -1,7 +1,7 @@
 # 学习Web全栈开发的100+免费资源
 > [Become-A-Full-Stack-Web-Developer](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer) 中文版
 
-#### **你好，我创建了下面的列表并会坚持更新，如果您想了解Web开发世界中的最新趋势，教程和文章，请订阅我每周的周报！**
+#### **你好，我创建了下面的列表并会坚持更新，如果你想了解Web开发世界中的最新趋势，教程和文章，请订阅我每周的周报！**
 
 ### [订阅周报](https://docs.google.com/forms/d/e/1FAIpQLSeQYYmBCBfJF9MXFmRJ7hnwyXvMwyCtHC5wxVDh5Cq--VT6Fg/viewform)       
 
@@ -95,7 +95,7 @@
 ---
 ### 学习 CSS
 
-* [您需要了解的关于Flexbox的一切](https://medium.freecodecamp.com/understanding-flexbox-everything-you-need-to-know-b4013d4dc9af#.nusbqoyuc) *认真脸：好的学习资源*
+* [你需要了解的关于Flexbox的一切](https://medium.freecodecamp.com/understanding-flexbox-everything-you-need-to-know-b4013d4dc9af#.nusbqoyuc) *认真脸：好的学习资源*
 * [Build a Minimalist HTML Card in just 53 lines of code (with Flexbox)](https://codeburst.io/build-a-minimalist-html-card-in-just-53-lines-of-code-with-flexbox-b40801927eb5)
 * [CSS视觉指南](http://cssreference.io/)
 * [CSS专业技巧](https://github.com/AllThingsSmitty/css-protips?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more)
